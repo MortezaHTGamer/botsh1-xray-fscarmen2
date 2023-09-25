@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
 
 # 设置各变量，网页用户和密码，WS 路径前缀。(注意:伪装路径不需要 / 符号开始,为避免不必要的麻烦,请不要使用特殊符号.)
-WEB_USERNAME=admin
-WEB_PASSWORD=password
-WSPATH=argo
-UUID=de04add9-5c68-8bab-950c-08cd5320df18
+WEB_USERNAME=khodemory
+WEB_PASSWORD=Nemigam14
+WSPATH=nltest1khodemory
+UUID=339d151c-2aef-4b28-8fc5-a2c29709dd20
 
 # 哪吒4个参数，ssl/tls 看是否需要，不需要的话可以留空，删除或在这4行最前面加 # 以注释
 NEZHA_SERVER=""
